@@ -8,9 +8,9 @@ All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1-o4YxKb9U
 
 Your team: group number ❔
 
-  - Student 1: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 1: Toua Innocent TIA `Centino00`
 
-  - Student 2: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 2: Hafsa SIDKI  `hafsaSIDKI`
   
   - Student 3: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
 
