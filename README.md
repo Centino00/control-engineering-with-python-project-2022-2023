@@ -14,7 +14,7 @@ Your team: group 7
   
   - Student 3: Sidi Lamine SAKHO `sidisakho`
 
-  - Student 4: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 4: Imane BENOUAHMANE `imane-ben123`
 
 ## Getting Started
 
