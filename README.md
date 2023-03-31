@@ -12,7 +12,7 @@ Your team: group number ❔
 
   - Student 2: Hafsa SIDKI  `hafsaSIDKI`
   
-  - Student 3: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 3: Sidi Lamine SAKHO `sidisakho`
 
   - Student 4: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
 
